@@ -1,0 +1,14 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "school_projects.xdv" "school_projects.pdf" "school_projects" 0
+  "school_projects.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "school_projects.pdf"
+["xelatex"] 1584256915 "school_projects.tex" "school_projects.xdv" "school_projects" 1584256916
+  "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1557092114 35484 cb1661360667bf4db662a8895053b554 ""
+  "/usr/local/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1583227690 3751070 df4ad93ed04d8f448fea7ad784b2edf3 ""
+  "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
+  "school_projects.aux" 1584254273 8 a94a2480d3289e625eea47cd1b285758 ""
+  "school_projects.tex" 1584256914 5625 ee71e798d5daa961ba063f4c751fae18 ""
+  (generated)
+  "school_projects.log"
+  "school_projects.xdv"

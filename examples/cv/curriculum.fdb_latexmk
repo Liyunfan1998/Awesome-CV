@@ -1,0 +1,14 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "curriculum.xdv" "curriculum.pdf" "curriculum" 0
+  "curriculum.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "curriculum.pdf"
+["xelatex"] 1584254985 "curriculum.tex" "curriculum.xdv" "curriculum" 1584254985
+  "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1557092114 35484 cb1661360667bf4db662a8895053b554 ""
+  "/usr/local/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1583227690 3751070 df4ad93ed04d8f448fea7ad784b2edf3 ""
+  "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
+  "curriculum.aux" 1584254472 8 a94a2480d3289e625eea47cd1b285758 ""
+  "curriculum.tex" 1584254984 2123 06264561ac10a06bde24e58d7ea8ad94 ""
+  (generated)
+  "curriculum.log"
+  "curriculum.xdv"

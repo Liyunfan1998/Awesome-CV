@@ -1,15 +1,15 @@
 # Fdb version 3
-["xdvipdfmx"] 1584251799 "cv.xdv" "cv.pdf" "cv" 1584253874
+["xdvipdfmx"] 1584251799 "cv.xdv" "cv.pdf" "cv" 1584256961
   "cv.xdv" 1584251799 99032 98cb025d085dcbaf48ba0f39b9dacce9 "xelatex"
   (generated)
   "cv.pdf"
-["xelatex"] 1584253817 "cv.tex" "cv.xdv" "cv" 1584253874
+["xelatex"] 1584255370 "cv.tex" "cv.xdv" "cv" 1584256961
   "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1557092114 35484 cb1661360667bf4db662a8895053b554 ""
   "/usr/local/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1583227690 3751070 df4ad93ed04d8f448fea7ad784b2edf3 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
   "awesome-cv.cls" 0 -1 0 ""
-  "cv.aux" 1584251800 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
-  "cv.tex" 1584253873 3616 92c2f06ad7b70e191a0e36f3c5616c24 ""
+  "cv.aux" 1584255377 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
+  "cv.tex" 1584256961 3730 47dbc218f4f3efa1fe574f91294baff6 ""
   (generated)
   "cv.log"
   "cv.xdv"
