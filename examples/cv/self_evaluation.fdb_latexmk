@@ -1,0 +1,14 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "self_evaluation.xdv" "self_evaluation.pdf" "self_evaluation" 0
+  "self_evaluation.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "self_evaluation.pdf"
+["xelatex"] 1584262073 "self_evaluation.tex" "self_evaluation.xdv" "self_evaluation" 1584262074
+  "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1557092114 35484 cb1661360667bf4db662a8895053b554 ""
+  "/usr/local/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1583227690 3751070 df4ad93ed04d8f448fea7ad784b2edf3 ""
+  "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
+  "self_evaluation.aux" 1584260980 8 a94a2480d3289e625eea47cd1b285758 ""
+  "self_evaluation.tex" 1584262073 922 520c1ce4264aaf81ffb6fc732f038c77 ""
+  (generated)
+  "self_evaluation.log"
+  "self_evaluation.xdv"

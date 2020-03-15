@@ -1,0 +1,14 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "extracurricular.xdv" "extracurricular.pdf" "extracurricular" 0
+  "extracurricular.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "extracurricular.pdf"
+["xelatex"] 1584257886 "extracurricular.tex" "extracurricular.xdv" "extracurricular" 1584257887
+  "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1557092114 35484 cb1661360667bf4db662a8895053b554 ""
+  "/usr/local/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1583227690 3751070 df4ad93ed04d8f448fea7ad784b2edf3 ""
+  "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
+  "extracurricular.aux" 1584257886 8 a94a2480d3289e625eea47cd1b285758 ""
+  "extracurricular.tex" 1584257886 3751 abff47e3fd0b9900a99640dbeb2c645d ""
+  (generated)
+  "extracurricular.log"
+  "extracurricular.xdv"

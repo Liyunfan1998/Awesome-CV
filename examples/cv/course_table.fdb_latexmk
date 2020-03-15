@@ -1,0 +1,14 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "course_table.xdv" "course_table.pdf" "course_table" 0
+  "course_table.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "course_table.pdf"
+["xelatex"] 1584262546 "course_table.tex" "course_table.xdv" "course_table" 1584262547
+  "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1557092114 35484 cb1661360667bf4db662a8895053b554 ""
+  "/usr/local/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1583227690 3751070 df4ad93ed04d8f448fea7ad784b2edf3 ""
+  "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
+  "course_table.aux" 1584262543 8 a94a2480d3289e625eea47cd1b285758 ""
+  "course_table.tex" 1584262546 3227 7ea5e5d790cdec2d4034667555205481 ""
+  (generated)
+  "course_table.log"
+  "course_table.xdv"

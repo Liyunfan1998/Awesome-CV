@@ -1,0 +1,14 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "research_intererst.xdv" "research_intererst.pdf" "research_intererst" 0
+  "research_intererst.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "research_intererst.pdf"
+["xelatex"] 1584261660 "research_intererst.tex" "research_intererst.xdv" "research_intererst" 1584261661
+  "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1557092114 35484 cb1661360667bf4db662a8895053b554 ""
+  "/usr/local/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1583227690 3751070 df4ad93ed04d8f448fea7ad784b2edf3 ""
+  "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
+  "research_intererst.aux" 1584261459 8 a94a2480d3289e625eea47cd1b285758 ""
+  "research_intererst.tex" 1584261660 861 4cf40b89c2000f6802524de32f8c017b ""
+  (generated)
+  "research_intererst.log"
+  "research_intererst.xdv"
