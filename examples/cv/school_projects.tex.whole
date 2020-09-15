@@ -8,6 +8,31 @@
 %	CONTENT
 %-------------------------------------------------------------------------------
 \begin{cventries}
+%---------------------------------------------------------
+  \cventry
+    {Distributed Systems}
+    {New York Taxi Data Analysis}
+    {FDU}
+    {2019.06}
+    {
+      \begin{cvitems} % Description(s)
+        \item {Doing massive data analysis on Spark.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Advanced Data Science}
+    {Turkish population data analysis}
+    {FDU}
+    {2019.06}
+    {
+      \begin{cvitems} % Description(s)
+        \item {Doing massive data analysis on Spark. Machine learning algorithms applied.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
   \cventry
     {Artificial Intelligence (Group Work)}
     {Gomoku on piskvork| Gomoku agent implemented with MCTS}
@@ -23,7 +48,7 @@
 %---------------------------------------------------------
   \cventry
     {Social Network Mining (Group Work)}
-    {Collaborative Filtering Movie recommendation algorithms}
+    {Movie recommendation algorithms for users}
     {FDU}
     {2019.06}
     {
@@ -40,7 +65,45 @@
     {2019.06}
     {
       \begin{cvitems} % Description(s)
-        \item {Fine Tunning LightGBM for prediction.}
+        \item {Using LightGBM for prediction.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Statistical machine learning (Group Work)}
+    {Bilibili Data Analysis}
+    {FDU}
+    {2019.06}
+    {
+      \begin{cvitems} % Description(s)
+        \item {Using web crawlers to gather data (from Bilibili) for Data Analysis on video uploaders.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Financial Time Series in Data Mining (Group Work)}
+    {Residential electricity usage data analysis}
+    {FDU}
+    {2019.06}
+    {
+      \begin{cvitems} % Description(s)
+        \item {Using DTW for time series classification and LSTM for time series prediction. Data from Bureau of Shanghai Electric Power.}
+        \item {Time series analysis on search engine searches for keyword "Big Data";}
+        \item {Using web crawlers to gather data (from Baidu Index) to predict future market size of the "Big Data" industry.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Software Engineering (Group Work)}
+    {Calendar Notepad}
+    {FDU}
+    {2018.06}
+    {
+      \begin{cvitems} % Description(s)
+        \item {This course focuses on design patterns and code refactoring. Responsible for backend development.}
       \end{cvitems}
     }
 
@@ -53,7 +116,7 @@
     {
       \begin{cvitems} % Description(s)
         \item {Draw a scene with WebGL, user keyboard event to achieve camera perspective change and omnidirectional movement}
-        \item {Realized keyboard event control object visibility and transformation.}
+        \item {Realized keyboard event control object visibility, realize keyboard event control transformation.}
       \end{cvitems}
     }
 
@@ -65,7 +128,7 @@
     {2018.06}
     {
       \begin{cvitems} % Description(s)
-        \item {TensorFlow, LSTM.}
+        \item {Based on TensorFlow framework, using LSTM.}
       \end{cvitems}
     }
 
@@ -77,7 +140,7 @@
     {2017.12}
     {
       \begin{cvitems} % Description(s)
-      \item {A C++ QT-based GUI2048 game, DFS AI.}
+      \item {A C++ QT-based GUI2048 game, using depth search to achieve AI functionality.}
       \end{cvitems}
     }
 
@@ -101,7 +164,7 @@
     {2017.12}
     {
       \begin{cvitems} % Description(s)
-        \item {Pure C, thread pool monitoring message, socket transmission.}
+        \item {thread pool monitoring message, specify ip+port to achieve message transmission.}
       \end{cvitems}
     }
 
@@ -113,7 +176,19 @@
     {2017.06}
     {
       \begin{cvitems} % Description(s)
-      \item {PHP + MySQL as backend. HTML, CSS, JavaScript as frontend. User authentication with cookies, encryption hashing with salt.}
+      \item {A web interface. PHP + MySQL as backend, frontend HTML, CSS, JavaScript, user authentication with cookies, encryption using hashing with salt.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Programming A}
+    {Arena Chess}
+    {FDU}
+    {2016.12}
+    {
+      \begin{cvitems} % Description(s)
+      \item {100\% completion, the realization of the JavaFX-based GUI, the corresponding user mouse and keyboard operation.}
       \end{cvitems}
     }
 
